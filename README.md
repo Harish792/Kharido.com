@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3514/3514491.png" alt="ShopNest Logo" width="80" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3514/3514491.png" alt="S=karido Logo" width="80" />
   <h1>ShopNest - Full-Stack MERN E-Commerce App</h1>
   <p>A professionally engineered, full-stack E-commerce platform built strictly using modern standard React (CRA) on the frontend and Express/MongoDB on the backend.</p>
 </div>
@@ -34,7 +34,7 @@ RAZORPAY_KEY_ID=your_key_id
 RAZORPAY_KEY_SECRET=your_key_secret
 ```
 
-From the **root folder** `shopnest/`, trigger a full install across environments:
+From the **root folder** `kharido/`, trigger a full install across environments:
 ```bash
 npm run build
 ```
